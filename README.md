@@ -1,12 +1,10 @@
-### Hi there 👋 I'm May
+## Hi there 👋 I'm May
+Project manager at Appwrite
 
-<!--
-**MayEnder/MayEnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning my new roll as a Project manager at Appwrite
+- 🌱 I’m currently learning my new roll
 - 🤔 I’m looking for simple explination regarding tech teams responsebilities and tytles
-- 💬 Ask me about Ariel Acrobatics
+- 💬 Ask me about:
+..*Ariel Acrobatics
+..*Books
 - 😄 Pronouns: She\ Her
 -->
