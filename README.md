@@ -7,4 +7,3 @@ Project manager at Appwrite
 ..*Ariel Acrobatics
 ..*Books
 - 😄 Pronouns: She\ Her
--->
